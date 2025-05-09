@@ -1,4 +1,3 @@
-![hello-world-seytonic](https://github.com/user-attachments/assets/5413fd26-ec7c-4180-b6dc-7067fe615b81)
 ## 👋 Hi, I'm Marco! 
 🤖 I'm new to the coding journey but I'm enjoying it so far <br/>
 🥷🏽 I'm currently improving my skills in using React <br/>
@@ -30,5 +29,7 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarcoVCarreira&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![matrix code](https://github.com/user-attachments/assets/d767ddad-a4db-4d94-9c80-6b878e5d3cab)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
