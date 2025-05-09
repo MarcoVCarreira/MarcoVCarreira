@@ -1,3 +1,8 @@
+
+
+
+https://github.com/user-attachments/assets/2e2d9649-a39c-446c-be12-281c5e7afc41
+
 ## 👋 Hi, I'm Marco! 
 🤖 I'm new to the coding journey but I'm enjoying it so far <br/>
 🥷🏽 I'm currently improving my skills in using React <br/>
